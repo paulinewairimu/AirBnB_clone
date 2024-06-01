@@ -2,14 +2,14 @@
 ![AirBnB Logo](https://www.pngitem.com/pimgs/m/132-1322125_transparent-background-airbnb-logo-hd-png-download.png)
 
 ## Project Description
-This is the first part of the AirBnB clone project where we worked on the backend of the project whiles interfacing it with a console application with the help of the cmd module in python.
+In this initial phase of the Airbnb clone project, we focused on developing the backend and integrating it with a console application using Python's cmd module.
 
-Data (python objects) generated are stored in a json file and can be accessed with the help of the json module in python
+The data generated (Python objects) is saved in a JSON file and can be managed using Python's json module.
 
 ## Description of the command interpreter:
-The interface of the application is just like the Bash shell except that this has a limited number of accepted commands that were solely defined for the purposes of the usage of the AirBnB website.
+The application's interface resembles the Bash shell but supports only a specific set of commands tailored for the Airbnb website.
 
-This command line interpreter  serves as the frontend of the web app where users can interact with the backend which was developed with python OOP programming.
+This command line interpreter functions as the frontend of the web app, allowing users to interact with the backend, which was built using Python's object-oriented programming.
 
 Some of the commands available are:
 - show
@@ -33,7 +33,7 @@ These instructions will get you a copy of the project up and running on your loc
 You will need to clone the repository of the project from Github. This will contain the simple shell program and all of its dependencies.
 
 ```
-git clone https://github.com/jzamora5/AirBnB_clone.git
+git clone https://github.com/paulinewairimu/AirBnB_clone.git
 ```
 After cloning the repository you will have a folder called AirBnB_clone. In here there will be several files that allow the program to work.
 
